@@ -1,0 +1,39 @@
+{
+    "image5": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERER/xERERERERH///8fEREREfH/////HxERERER////EREREREREf8fERERERER/x8RERER////ERHx/////x8REf///x8RERER/xEREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage4"
+    },
+    "image4": {
+        "data": "hwQQABAAAAARERERERERERH/EREREf8REf///////xER////////ERH/EREREf8RERERERERERER/xERERERERH///8fEREREfH/////HxERERER////EREREREREf8REREREf///xER8f////8fERH///8fEREREf8REREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image2": {
+        "data": "hwQQABAAAAARERERERERERH/EREREf8REf///////xER////////ERH/EREREf8RERERERERERER/xERERH/ERH///////8REf///////xER/xERERH/EREREREREREREf8RERER/xER////////ERH///////8REf8RERER/xEREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAREREREREREREREREREREREf8RERER/xER////////ERH///////8REf8RERER/xERERERERERERERERERERERERERERERERERERERERERERH/EREREf8REf///////xER////////ERH/EREREf8REREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAARERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERER/xERERH/ERH///////8REf///////xER/xERERH/EREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDA5MDAwOTAwMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAxMTAwMDAxMGQxMTEwMDAwZDFkZDAxMDAxMGQxMTEwMDAwMTAxMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMTAxMTExMDAxMDAwMDAxMDAwMDFkMTAxMDExMGQwZGQxMDAwMDFkMTAxMDExMDAwMDAxMDAwMTAxMTExMDAwMDAwMDAwMDAwMDAxMTExMDEwMDAxMDAwMDAxMDEwMDAwMDAxMTAwZDEwMTEwMDFkMGRkMDAxMTAwZDEwMTEwMDEwMDAwMDAwMTAxMDAwMDAxMDAxMTExMDEwMA==",
+        "displayName": "myAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
